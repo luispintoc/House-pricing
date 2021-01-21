@@ -1,5 +1,9 @@
 # House-pricing
 
+*********************************************
+Better and improve code will be uploaded soon
+*********************************************
+
 
 ## Overview
 Code for the House Pricing Kaggle competition [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview). Best model ranks top 30% of the competition. I used feature ranking, Bayesian optimization and built an ensemble of 3 models (Lasso, XGB, NN) with L2 normalization.

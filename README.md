@@ -25,4 +25,4 @@ Models were trained using Bayesian optimization. The models were then ensembled 
 **NN** model: LB score 0.16797
 **Elastic** model: LB score 0.14059
 
-**Ensemble** of the first three models: 
+**Ensemble** of the first three models: 0.13055

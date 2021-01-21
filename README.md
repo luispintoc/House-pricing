@@ -1,7 +1,7 @@
 # House-pricing
 
 *********************************************
-Better and improve code will be uploaded soon
+Better and improved code will be uploaded soon
 *********************************************
 
 

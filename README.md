@@ -10,7 +10,7 @@ Code for the House Pricing Kaggle competition [House Prices - Advanced Regressio
 
 
 ## Prerequisites
-The packages used are tensorflow, sklearn and hyperopt.
+The packages used are tensorflow and sklearn
 
 ## Files
 **input**: Hosts the dataset

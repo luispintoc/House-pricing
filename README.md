@@ -1,9 +1,5 @@
 # House-pricing
 
-*********************************************
-Better and improved code will be uploaded soon
-*********************************************
-
 
 ## Overview
 Code for the House Pricing Kaggle competition [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview). Best model ranks top 30% of the competition. I used feature ranking, Bayesian optimization and built an ensemble of 3 models (Lasso, XGB, NN) with L2 normalization.
@@ -15,9 +11,9 @@ The packages used are tensorflow and sklearn
 ## Files
 **input**: Hosts the dataset
 
-**01 - Exploration**: Scripts to check missing entries, correlations, etc.
+**Exploratory Data Analysis.ipynb**: EDA jupyter notebook to examine the dataset and stablish guidelines for preprocessing
 
-**02 - Train_Test**: Scripts to train models and output predictions
+**main.ipynb**: Scripts to train models and output predictions
 
 ## Models
 Models were trained using Bayesian optimization. The models were then ensembled using L2 normalization.

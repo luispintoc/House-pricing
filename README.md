@@ -9,7 +9,7 @@ Code for the House Pricing Kaggle competition [House Prices - Advanced Regressio
 The packages used are tensorflow and sklearn
 
 ## Files
-**input**: Hosts the dataset
+**input**: Folder storing the dataset
 
 **Exploratory Data Analysis.ipynb**: EDA jupyter notebook to examine the dataset and stablish guidelines for preprocessing
 
